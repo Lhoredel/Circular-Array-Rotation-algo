@@ -1,1 +1,2 @@
 # Circular-Array-Rotation-algo
+This program resolves the Circular Array Rotation problem by accurately managing right rotations of an array and replying to queries about the position of elements after rotation. The code avoids manually changing the array by mathematically identifying where each requested element would move using modular arithmetic to calculate the initial array indexes following rotation.
